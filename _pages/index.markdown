@@ -6,7 +6,7 @@ layout: home
 permalink: /
 ---
 
-# Ph.D. research page
+# Alessandro Zangari - Ph.D. research page
 
 Hello! I am a Ph.D. student in Computer Science at the Ca' Foscari University of Venice (Italy). Previously, I obtained
 a Master's Degree in Computer Science at the University of Padua in 2020, focusing on the AI track.
