@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Alessandro Zangari, Ph.D. student in CS / AI @ Ca' Foscari University of Venice
+email: alessandro.zangari@unive.it
+description: >- # this means to ignore newlines until "baseurl:"
+  Natural Language Processing, Interpretable and Explainable AI
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username: alezanga
+
+# Build settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  style: compressed
+
+# Theme settings
+theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+
+# Customizations
+your_name: Alessandro Zangari
+
+include: [ _pages ]
+
+navigation:
+  - text: Home
+    url: /
+#  - text: Docs
+#    url: /docs
+#  - text: Examples
+#    url: /examples
+
+#projects:
+#  - name: git-secret
+#    description: A bash-tool to store your private data inside a git repository.
+#    link: https://sobolevn.github.io/git-secret
+#    image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true
+
+social:
+  - service: github
+    username: alezanga
+    link: https://github.com/alezanga
+  - service: orcid
+    username: Alessandro Zangari
+    link: https://orcid.org/0000-0002-3634-6607
+  - service: linkedin
+    username: Alessandro Zangari
+    link: https://www.linkedin.com/in/alessandro-z-12251928a
+
+# Plugins
+gems:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
