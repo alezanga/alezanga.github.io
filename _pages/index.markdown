@@ -8,8 +8,14 @@ permalink: /
 
 # Alessandro Zangari - Ph.D. research page
 
+<div class="home-image">
+ <img src="{{ 'assets/me_updated.jpg' }}" alt="Alessandro Zangari's profile picture">
+</div>
+
 Hello! I am a Ph.D. student in Computer Science at the Ca' Foscari University of Venice (Italy). Previously, I obtained
-a Master's Degree in Computer Science at the University of Padua in 2020, focusing on the AI track.
+a Master's Degree in Computer Science at the University of Padua in 2020, with a focus on AI and Machine Learning.
+
+## Current position
 
 - University: Ca' Foscari University of Venice
 - Department: [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183/){:
@@ -18,15 +24,14 @@ a Master's Degree in Computer Science at the University of Padua in 2020, focusi
 
 ## Research
 
-My main research interests are Explainable AI, Natural Language Processing, and Computer Vision. 
+My main research interests are Explainable AI (XAI) and Natural Language Processing, with some applications of XAI to Computer Vision.
 
-My Ph.D. project
+My Ph.D. project 
 focuses on developing new scalable and explainable strategies for Machine Learning, with the goal of bridging the gap
 between the performance of machine learning methods and the intelligibility of their reasoning.
 
 I am also part of the project [Interconnected
-Nord-Est Innovation Ecosystem](https://pric.unive.it/progetti/spoke-6-inest/home){:target="_blank"}, where I work on
-industrial applications of my research to the tourism domain.
+Nord-Est Innovation Ecosystem](https://pric.unive.it/progetti/spoke-6-inest/home){:target="_blank"}, where I work on textual data analytics to understand tourist behaviour.
 
 ## Latest publications
 

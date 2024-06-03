@@ -21,7 +21,7 @@
 title: Alessandro Zangari, Ph.D. student
 email: alessandro.zangari@unive.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Natural Language Processing, Interpretabiliy, Explainable AI
+  Natural Language Processing, Interpretable and Explainable AI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
