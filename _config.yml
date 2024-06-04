@@ -61,11 +61,11 @@ social:
     username: alezanga
     link: https://github.com/alezanga
   - service: orcid
-    username: Alessandro Zangari
+    username: ORCID
     link: https://orcid.org/0000-0002-3634-6607
   - service: linkedin
-    username: Alessandro Zangari
-    link: https://www.linkedin.com/in/alessandro-z-12251928a
+    username: LinkedIn
+    link: https://linkedin.com/in/alessandro-zangari
 
 # Plugins
 gems:
