@@ -6,7 +6,7 @@ layout: home
 permalink: /
 ---
 
-# Alessandro Zangari - Ph.D. research page
+# Alessandro Zangari - Researcher page
 
 <div class="home-image">
  <img src="{{ 'assets/me_updated.jpg' }}" alt="Alessandro Zangari's profile picture">

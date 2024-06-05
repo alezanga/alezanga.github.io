@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: alezanga
+author: Alessandro Zangari
 
 # Build settings
 markdown: kramdown
@@ -58,7 +59,7 @@ navigation:
 
 social:
   - service: github
-    username: alezanga
+    username: GitHub
     link: https://github.com/alezanga
   - service: orcid
     username: ORCID
