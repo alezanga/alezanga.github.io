@@ -20,6 +20,7 @@
 
 title: Alessandro Zangari, Ph.D. student in CS / AI @ Ca' Foscari University of Venice
 email: alessandro.zangari@unive.it
+repository: https://github.com/alezanga
 description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing, Interpretable and Explainable AI
 baseurl: "" # the subpath of your site, e.g. /blog
